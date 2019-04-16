@@ -1,0 +1,20 @@
+{
+  "main.css": "/static/css/main.aefcd382.chunk.css",
+  "main.js": "/static/js/main.7fc1cf4e.chunk.js",
+  "main.js.map": "/static/js/main.7fc1cf4e.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.c5541365.js",
+  "runtime~main.js.map": "/static/js/runtime~main.c5541365.js.map",
+  "static/js/2.8f1c5f7b.chunk.js": "/static/js/2.8f1c5f7b.chunk.js",
+  "static/js/2.8f1c5f7b.chunk.js.map": "/static/js/2.8f1c5f7b.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.8780833ec9254151ed4f904252681623.js": "/precache-manifest.8780833ec9254151ed4f904252681623.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.aefcd382.chunk.css.map": "/static/css/main.aefcd382.chunk.css.map",
+  "static/media/App.css": "/static/media/Background.919a2eae.jpg",
+  "static/media/rain.jpg": "/static/media/rain.4015273f.jpg",
+  "static/media/snow.jpg": "/static/media/snow.7e6b0eea.jpg",
+  "static/media/sun.jpg": "/static/media/sun.4daf05f5.jpg",
+  "static/media/sunlogo.jpg": "/static/media/sunlogo.b386d54e.jpg",
+  "static/media/thunder.jpg": "/static/media/thunder.bb256717.jpg",
+  "static/media/wind.jpg": "/static/media/wind.89aa4886.jpg"
+}
